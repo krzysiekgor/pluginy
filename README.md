@@ -1,2 +1,3 @@
 pluginy
 =======
+Kopiowanie zabronione.
